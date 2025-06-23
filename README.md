@@ -61,3 +61,11 @@ After completing the data storage process in the database according to the befor
 
 In this section, you can find screenshots of the different stages of the ETL process, showcasing key stages including data flow, control flow, and the processed data loading into the Data Warehouse (DWH).
 
+### **Data Flow**
+![Data Flow](./screenshots/Data_Flow.png)
+
+### **Control Flow**
+![Control Flow](./screenshots/Control_Flow.png)
+
+### **Sample of loaded data**
+![Data Warehouse](./screenshots/Processed_Data_Sample.png)
